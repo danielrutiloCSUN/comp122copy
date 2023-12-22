@@ -1,0 +1,36 @@
+The following changes since commit 7bb4d2e48d8ac264a72378a8705c0904fb7f1d4a:
+
+  Initial commit (2023-10-17 02:46:05 +0000)
+
+are available in the Git repository at:
+
+  git@github.com:COMP122/24-bitwise-operations-danielrutiloCSUN.git main
+
+for you to fetch changes up to a28630e4ba6aa11e434f04c1696b007555f4f363:
+
+  final (2023-10-17 18:01:35 -0700)
+
+----------------------------------------------------------------
+danielrutiloCSUN (18):
+      started assignment
+      commit
+      commit
+      commit
+      commit
+      commit
+      commit
+      commit sra
+      commit sra
+      commit sra
+      commit srl
+      commit
+      commit
+      commit
+      commit
+      commit
+      commit
+      final
+
+ submission.md | 292 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 292 insertions(+)
+ create mode 100644 submission.md

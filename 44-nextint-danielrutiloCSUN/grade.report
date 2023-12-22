@@ -1,0 +1,93 @@
+# Grading Report
+# Github Account: danielrutiloCSUN
+# Assignment:    "44-nextint"
+# --- Due Date:        "Nov 10 23:59:59"
+# --- Version Graded:  "graded_version (bd645d6)"
+# --- Version Date:    "Nov 10 18:36:38"
+# --- Status:          "Post Due Date Commits Ignored"
+# --- Last Commit late by: 5071 minutes
+
+#
+# Max Points per task:
+# Task_1: Java Code 30
+# Task_2: Java TAC 30
+# Task_3: MIPS Code 30
+# Validation: 10
+#
+  15 Points:  Structure of Java Code: (15 Points): 
+  15 Points:  Java Code Passed Test Cases: (15 Points): 
+  15 Points:  Structure of Java TAC Code: (15 Points): but conditionals are not simplified
+   0 Points:  Java TAC Passed Test Cases: (15 Points): 
+   0 Points:  Structure of MIPS Code: (15 Points): 
+   0 Points:  MIPS Code Test Cases: (15 Points): 
+   0 Points:  Validation File Present: (10 Points): 
+   0 Points:  Any additional comments:: 
+----
+  45 Points:  Total
+
+ASSIGNMENT_44_total="45"        # danielrutiloCSUN
+
+STUDENT COMMIT HISTORY:
+
+*  6dc6b62  Nov 14 12:31 -0800  (HEAD -> main, origin/main, origin/HEAD, grading_information)
+*  5865ec6  Nov 11 22:21 -0800 
+*  026b1ee  Nov 11 22:20 -0800 
+*  f869379  Nov 11 21:59 -0800 
+*  5ef2fa4  Nov 11 20:18 -0800 
+*    fc2dda7  Nov 11 19:30 -0800 
+|\  
+| |\  
+* | |  add429f  Nov 11 19:15 -0800 
+| |/  
+|/|   
+* |  8cdba17  Nov 11 17:45 -0800 
+* |  2d2a481  Nov 11 17:20 -0800 
+* |  d69d7e1  Nov 11 17:10 -0800 
+* |  7373924  Nov 11 17:06 -0800 
+* |  aa52cac  Nov 11 16:56 -0800 
+* |  96b6bf6  Nov 11 16:49 -0800 
+|\| 
+*  d2c84fc  Nov 11 16:49 -0800 
+* Due Date: Nov 10 23:59:59  -----------------
+*  bd645d6  Nov 10 18:36 -0800 
+*  4e70092  Nov 10 18:16 -0800 
+*  44b6c33  Nov 10 17:54 -0800 
+*  d3d4fa4  Nov 10 17:31 -0800 
+*  8c7e3f0  Nov 10 16:56 -0800 
+*  5f8f390  Nov 10 16:43 -0800 
+*  d7aaf32  Nov 10 16:36 -0800  (tag: java_tac_code)
+*  bb36c81  Nov 10 16:33 -0800 
+*  8eafabd  Nov 10 16:20 -0800 
+*    70438e4  Nov 10 15:53 -0800 
+|\  
+* |  f17bec4  Nov 10 15:53 -0800 
+|/  
+*  192017a  Nov 10 15:36 -0800 
+*  9690bea  Nov 10 15:07 -0800 
+*  78db735  Nov 10 14:53 -0800 
+*  8b59478  Nov 10 14:50 -0800 
+*  89a7fa6  Nov 10 14:42 -0800 
+*  9bb9ebd  Nov 10 14:26 -0800 
+*  de8455a  Nov 10 03:40 -0800 
+*  b4c5063  Nov 10 03:40 -0800 
+*  0af4c8c  Nov 10 03:37 -0800 
+*  462d733  Nov 10 02:46 -0800  (tag: java_code)
+*  c0dc9f1  Nov 10 02:34 -0800 
+*  64c6c96  Nov 10 02:32 -0800 
+*  a8a0751  Nov 10 02:17 -0800 
+*  d52d028  Nov 10 00:28 -0800 
+*  79c20eb  Nov 10 00:02 -0800 
+*  4cf1171  Nov 09 23:48 -0800 
+*  7279d4d  Nov 09 23:39 -0800 
+*  57445e1  Nov 09 18:28 -0800 
+*  b7448e6  Nov 09 18:27 -0800 
+*  be6a916  Nov 09 18:02 -0800 
+*  bfc82a8  Nov 09 11:49 -0800 
+*  6250dc0  Nov 09 11:43 -0800 
+*    4a0df48  Nov 09 10:39 -0800 
+|\  
+* |  4d81595  Nov 09 10:39 -0800 
+|/  
+*  da921f0  Nov 07 10:55 -0800 
+*  4bfee0e  Nov 07 09:38 -0800 
+

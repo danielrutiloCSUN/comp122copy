@@ -1,0 +1,41 @@
+# Grading Report
+# Github Account: danielrutiloCSUN
+# Assignment:    "10-quiz-models"
+# --- Accept Date:     "Sep 30 13:47:22"
+# --- Due Date:        "Sep 30 14:47:22" (time limit: 1H)
+# --- Cutoff Date:     "Oct 01 23:59:59"
+# --- Version Graded:  "graded_version (797262b)"
+# --- Version Date:    "Sep 29 20:47:00"
+# --- Status:          "Submission On Time"
+
+  10 Points:  FSM (10 points): 
+   8 Points:  ISA (10 points): 
+  10 Points:  Circuit (10 points): 
+   9 Points:  Terms (10 points): interrupt
+   5 Points:  Universal Computer (15 points): ???
+  15 Points:  PDA (15 points): 
+  10 Points:  Endian (10 points): 
+  15 Points:  lval/rval (15 points): 
+   5 Points:  Penalties (5 points = no penalties): 
+----
+  87 Points:  Total
+
+ASSIGNMENT_10_total="87"        # danielrutiloCSUN
+
+STUDENT COMMIT HISTORY:
+
+* Due Date: Sep 30 14:47:22  -----------------
+*  797262b  Sep 29 20:47 -0700  (HEAD -> main, origin/main, origin/HEAD, grading_information)
+*  c9a97e1  Sep 29 20:43 -0700 
+*  4f4977a  Sep 29 20:39 -0700 
+*  3e14d74  Sep 29 20:35 -0700 
+*  42ef045  Sep 29 20:32 -0700 
+*  a9cb493  Sep 29 20:25 -0700 
+*  4d0f150  Sep 29 20:17 -0700 
+*  8522161  Sep 29 20:11 -0700 
+*  4d336c5  Sep 29 19:58 -0700 
+*  23b3151  Sep 29 19:54 -0700 
+*  4665e56  Sep 29 19:47 -0700 
+*  946d494  Sep 30 13:47 -0700 
+*  7372240  Sep 30 13:47 -0700 
+

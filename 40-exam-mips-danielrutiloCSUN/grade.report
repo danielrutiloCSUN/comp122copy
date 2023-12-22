@@ -1,0 +1,68 @@
+# Grading Report
+# Github Account: danielrutiloCSUN
+# Assignment:    "40-exam-mips"
+# --- Due Date:        "Dec 11 23:59:59"
+# --- Version Graded:  "graded_version (db6bc75)"
+# --- Version Date:    "Dec 07 18:08:18"
+# --- Status:          "Submission On Time"
+
+#
+# Max Points per task:
+# Tagging 10
+# Java Code 30
+# Java TAC 30
+# MIPS Code 30
+#
+  10 Points:  Tagging (10 points): 
+  15 Points:  Structure of Java Code (20 Points): 
+  15 Points:  Java Code Passed Test Cases (20 Points): 
+  15 Points:  Structure of Java TAC Code (15 Points): 
+  15 Points:  Java TAC Passed Test Cases (15 Points): 
+  15 Points:  Structure of MIPS Code (15 Points): 
+  15 Points:  MIPS Code Test Cases (15 Points): 
+   0 Points:  Any additional comments: excessive tabbing in .j, messy comments in .s
+----
+ 100 Points:  Total
+
+ASSIGNMENT_40_total="100"        # danielrutiloCSUN
+
+STUDENT COMMIT HISTORY:
+
+* Due Date: Dec 11 23:59:59  -----------------
+|\  
+| *  db6bc75  Dec 07 18:08 -0800  (tag: graded_version)
+| *  acab133  Dec 07 18:01 -0800  (tag: mips_code)
+| *  f210c3e  Dec 07 17:37 -0800 
+| *  8a4abad  Dec 07 17:34 -0800 
+| *  b2acd5f  Dec 07 17:08 -0800 
+| *  9bc9276  Dec 07 17:02 -0800 
+| *  6fa912a  Dec 07 16:58 -0800 
+| *  7cdff9f  Dec 07 13:47 -0800 
+| *  2286c33  Dec 07 13:43 -0800 
+| *  56a1018  Dec 07 13:20 -0800 
+| *  e9c0a70  Dec 07 12:12 -0800 
+|/  
+*  b8f4fcc  Dec 01 08:53 -0800 
+*  f3c935c  Dec 01 08:44 -0800  (tag: java_tac_code)
+*  ab773cc  Dec 01 07:43 -0800 
+*  2777b4b  Dec 01 00:51 -0800 
+*  2c9521c  Dec 01 00:27 -0800 
+*  a3de782  Dec 01 00:25 -0800 
+*  09c32a1  Nov 30 13:42 -0800  (tag: java_code)
+*  c53c9c4  Nov 30 12:27 -0800 
+*  ba7a9c4  Nov 30 11:25 -0800 
+*  4825d93  Nov 30 11:02 -0800 
+*  cf5e9fa  Nov 26 21:35 -0800 
+*  f7c70f9  Nov 25 05:29 -0800 
+*  c8ddfca  Nov 25 04:57 -0800 
+*  a9d4667  Nov 25 03:52 -0800 
+*  3e8ecd0  Nov 25 03:17 -0800 
+*  b2d0758  Nov 25 03:08 -0800 
+*  ce3709a  Nov 25 02:18 -0800 
+*  5f7da43  Nov 25 02:04 -0800 
+*    3228875  Nov 25 01:51 -0800 
+|\  
+* |  e5e531f  Nov 25 01:50 -0800 
+|/  
+*  d3a4092  Nov 21 11:09 -0800 
+

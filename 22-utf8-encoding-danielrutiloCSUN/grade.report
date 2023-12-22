@@ -1,0 +1,39 @@
+# Grading Report
+# Github Account: danielrutiloCSUN
+# Assignment:    "22-utf8-encoding"
+# --- Due Date:        "Oct 05 23:59:59"
+# --- Version Graded:  "graded_version (e0c7f18)"
+# --- Version Date:    "Oct 05 12:11:00"
+# --- Status:          "Submission On Time"
+
+  10 Points:  Commits & Formating (10 points): 
+  10 Points:  Convert to binary (10 points): 
+  10 Points:  Number of bytes (10 points): 
+  20 Points:  UTF-8 binary (20 points): 
+  10 Points:  UTF-8 hex (10 points): 
+  15 Points:  Gather (20 points): 
+   8 Points:  Unpack (10 points): 
+   8 Points:  Decode (10 points): 
+----
+  91 Points:  Total
+
+ASSIGNMENT_22_total="91"        # danielrutiloCSUN
+
+STUDENT COMMIT HISTORY:
+
+* Due Date: Oct 05 23:59:59  -----------------
+*  e0c7f18  Oct 05 12:11 -0700  (HEAD -> main, origin/main, origin/HEAD, grading_information)
+*  e8ace65  Oct 05 12:00 -0700 
+*  eef5f0a  Oct 04 22:10 -0700 
+*  5ff0eea  Oct 04 22:03 -0700 
+*  03134c3  Oct 04 21:59 -0700 
+*  e46c07c  Oct 04 21:49 -0700 
+*  a6202ef  Oct 04 21:18 -0700 
+*  babcb71  Oct 04 21:07 -0700 
+*  b637469  Oct 04 21:01 -0700 
+*  adcc430  Oct 04 20:51 -0700 
+*  176cf88  Oct 04 20:35 -0700 
+*  b6721cd  Oct 04 12:16 -0700 
+*  ac5a7b2  Oct 04 12:25 -0700 
+*  cf7cdf4  Oct 04 12:24 -0700 
+

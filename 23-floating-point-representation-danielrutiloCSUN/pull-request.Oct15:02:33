@@ -1,0 +1,35 @@
+The following changes since commit 84c29b4a86d8fa694e6eb42a287cbcc7ba6227af:
+
+  Initial commit (2023-10-12 17:51:08 +0000)
+
+are available in the Git repository at:
+
+  git@github.com:COMP122/23-floating-point-representation-danielrutiloCSUN.git main
+
+for you to fetch changes up to 472175928792bec44103c5a3cb64f208ab2a759b:
+
+  final (2023-10-15 02:32:43 -0700)
+
+----------------------------------------------------------------
+Steve Fitzgerald (1):
+      fixed type in example
+
+danielrutiloCSUN (13):
+      submission created
+      Merge branch 'main' of github.com:COMP122/23-floating-point-representation-danielrutiloCSUN
+      commit
+      commit
+      commit
+      commit
+      commit
+      commit
+      commit
+      commit
+      final submission
+      final submission
+      final
+
+ assignment.md |   2 +-
+ submission.md | 150 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 2 files changed, 151 insertions(+), 1 deletion(-)
+ create mode 100644 submission.md

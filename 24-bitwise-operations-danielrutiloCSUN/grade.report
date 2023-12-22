@@ -1,0 +1,45 @@
+# Grading Report
+# Github Account: danielrutiloCSUN
+# Assignment:    "24-bitwise-operations"
+# --- Due Date:        "Oct 17 23:59:59"
+# --- Version Graded:  "graded_version (f1a9321)"
+# --- Version Date:    "Oct 17 19:55:54"
+# --- Status:          "Submission On Time"
+
+  10 Points:  Complement (10 points): 
+   9 Points:  Left shift (10 points): 
+  15 Points:  Signed Shift-Right (15 points): 
+  15 Points:  Unsigned Shift-Right (15 points): 
+   8 Points:  Bitwise Boolean (10 points): 
+  15 Points:  Dotted IP Address (15 points): 
+  15 Points:  Base64 (15 points): 
+  10 Points:  Commits and Clarity (10 points): 
+----
+  97 Points:  Total
+
+ASSIGNMENT_24_total="97"        # danielrutiloCSUN
+
+STUDENT COMMIT HISTORY:
+
+* Due Date: Oct 17 23:59:59  -----------------
+*  f1a9321  Oct 17 19:55 -0700  (HEAD -> main, origin/main, origin/HEAD, grading_information)
+*  a28630e  Oct 17 18:01 -0700 
+*  73fe9cf  Oct 17 17:53 -0700 
+*  0407520  Oct 17 17:27 -0700 
+*  cb6b245  Oct 17 17:18 -0700 
+*  86c0fd0  Oct 17 17:14 -0700 
+*  c941185  Oct 17 17:09 -0700 
+*  7a90e84  Oct 17 17:06 -0700 
+*  33099ba  Oct 17 16:51 -0700 
+*  1222498  Oct 17 16:47 -0700 
+*  87d272d  Oct 17 16:43 -0700 
+*  a487092  Oct 17 16:38 -0700 
+*  b2c559c  Oct 17 16:28 -0700 
+*  47a7301  Oct 17 13:40 -0700 
+*  49fd3d2  Oct 17 13:26 -0700 
+*  338e71e  Oct 17 13:21 -0700 
+*  8574f85  Oct 17 12:36 -0700 
+*  342d7ac  Oct 17 12:06 -0700 
+*  7fc8a2d  Oct 16 19:49 -0700 
+*  7bb4d2e  Oct 16 19:46 -0700 
+

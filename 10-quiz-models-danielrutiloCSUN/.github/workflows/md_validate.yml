@@ -1,0 +1,20 @@
+name: Markdown (MD) Validator
+
+on:
+  push:
+    branches: [ "main" ]
+  fork:
+    branches:
+      - '!dev'
+
+jobs:
+  validate_submission:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Validate Submission File
+      run: make
+

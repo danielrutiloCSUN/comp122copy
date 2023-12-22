@@ -1,0 +1,83 @@
+# Grading Report
+# Github Account: danielrutiloCSUN
+# Assignment:    "42-checksum"
+# --- Due Date:        "Oct 12 23:59:59"
+# --- Version Graded:  "graded_version (73e8ded)"
+# --- Version Date:    "Oct 12 22:20:44"
+# --- Status:          "Submission On Time"
+
+#
+# Max Points per task:
+# Task_1: Java Code 30
+# Task_2: Java TAC 30
+# Task_3: MIPS Code 30
+# Validation: 10
+#
+# Only completed Task 1 & Task 2
+  15 Points:  Structure of Java Code: (15 Points): 
+  15 Points:  Java Code Passed Test cases: (15 Points): 
+  15 Points:  Structure of Java TAC Code: (15 Points): 
+  15 Points:  Java TAC Passed Test cases: (15 Points): 
+  12 Points:  Structure of MIPS Code: (15 Points): check formating  (tabs versus spaces)
+  15 Points:  MIPS Code Test cases: (15 Points): 
+  10 Points:  Validation File Present: (10 Points): 
+----
+  97 Points:  Total
+
+ASSIGNMENT_42_total="97"        # danielrutiloCSUN
+
+STUDENT COMMIT HISTORY:
+
+* Due Date: Oct 12 23:59:59  -----------------
+*  73e8ded  Oct 12 22:20 -0700  (HEAD -> grading_information, tag: task_2, origin/main, origin/HEAD, main)
+*  b26423c  Oct 12 22:18 -0700 
+*  f496c51  Oct 12 22:17 -0700 
+*  003f49b  Oct 12 22:12 -0700 
+*  adb9124  Oct 12 22:09 -0700 
+*  2d7add3  Oct 12 22:07 -0700  (tag: task_3)
+*  9dc2216  Oct 12 22:02 -0700 
+*  9e09c66  Oct 12 22:00 -0700 
+*  ad1fd46  Oct 12 18:26 -0700 
+*  e9e6ef5  Oct 12 16:47 -0700 
+*  8042ef1  Oct 12 16:37 -0700 
+*  35076f8  Oct 12 13:29 -0700 
+*  a5f8883  Oct 12 13:25 -0700 
+*  6e4ca4c  Oct 12 10:36 -0700 
+*  2b3c3c6  Oct 12 10:25 -0700 
+*  1b0024b  Oct 12 10:24 -0700 
+*  2d1a704  Oct 12 10:21 -0700 
+*  a94d9f5  Oct 12 00:00 -0700 
+*  cef271d  Oct 11 23:57 -0700 
+*  3b7e011  Oct 11 23:42 -0700 
+*  1a0c698  Oct 11 23:29 -0700 
+*  1eed3ac  Oct 11 23:28 -0700 
+*  5f2976b  Oct 11 12:22 -0700 
+*  8638a79  Oct 11 11:43 -0700 
+*  b2ed4f0  Oct 10 18:06 -0700 
+*  6aae7b5  Oct 10 17:51 -0700 
+*  864c5b4  Oct 10 17:37 -0700 
+*  dc8d8d2  Oct 10 17:36 -0700 
+*  e090ac6  Oct 10 17:21 -0700 
+*  795c707  Oct 10 16:51 -0700 
+*  7dbcb1a  Oct 10 16:42 -0700  (tag: force)
+*  bc32dac  Oct 10 16:30 -0700 
+*  80d76e4  Oct 10 16:24 -0700 
+*  17de6be  Oct 10 15:14 -0700 
+*  84f60d1  Oct 10 14:45 -0700  (tag: task_1)
+*  042609b  Oct 10 14:43 -0700 
+*  46cc887  Oct 10 14:27 -0700 
+*    0b64520  Oct 10 13:57 -0700 
+|\  
+* |  15eaa18  Oct 10 13:57 -0700 
+|/  
+*    12a1c7b  Oct 05 11:23 -0700 
+|\  
+| |\  
+* | |  e588d93  Oct 05 11:20 -0700 
+| |/  
+|/|   
+* |  9c4ef64  Oct 05 11:09 -0700 
+|/  
+*  cd9e144  Oct 05 10:13 -0700 
+*  3701abf  Oct 05 10:13 -0700 
+

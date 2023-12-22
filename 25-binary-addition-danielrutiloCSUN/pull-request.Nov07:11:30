@@ -1,0 +1,46 @@
+The following changes since commit 98a53f9c09d57b50bc12f9b36c18968d898e8a4f:
+
+  Initial commit (2023-11-02 17:32:56 +0000)
+
+are available in the Git repository at:
+
+  git@github.com:COMP122/25-binary-addition-danielrutiloCSUN.git main
+
+for you to fetch changes up to 0bed169ce89b78be0f6e8d2a2e454f917220d6e9:
+
+  Merge branch 'main' of github.com:COMP122/25-binary-addition-danielrutiloCSUN (2023-11-07 11:29:32 -0800)
+
+----------------------------------------------------------------
+Steve Fitzgerald (1):
+      fixing submission error
+
+danielrutiloCSUN (23):
+      creating file
+      commit
+      commit
+      commit
+      commit
+      commit
+      commit
+      commit
+      commit
+      commit
+      commit
+      commit
+      commit
+      commit
+      commit
+      commit
+      commit
+      commit
+      commit
+      commit
+      commit
+      final
+      Merge branch 'main' of github.com:COMP122/25-binary-addition-danielrutiloCSUN
+
+ .github/workflows/md_validate.yml |   2 +-
+ makefile                          |  62 ++++++-------
+ submission.md                     | 185 ++++++++++++++++++++++++++++++++++++++
+ 3 files changed, 212 insertions(+), 37 deletions(-)
+ create mode 100644 submission.md

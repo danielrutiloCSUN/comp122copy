@@ -1,0 +1,64 @@
+# Grading Report
+# Github Account: danielrutiloCSUN
+# Assignment:    "43-binary32"
+# --- Due Date:        "Oct 24 23:59:59"
+# --- Version Graded:  "graded_version (1875a88)"
+# --- Version Date:    "Oct 24 20:13:03"
+# --- Status:          "Submission On Time"
+
+#
+# Max Points per task:
+# Task_1: Java Code 30
+# Task_2: Java TAC 30
+# Task_3: MIPS Code 30
+# Validation: 10
+#
+  15 Points:  Structure of Java Code: (15 Points): 
+  15 Points:  Java Code Passed Test cases: (15 Points): 
+  15 Points:  Structure of Java TAC Code: (15 Points): 
+  15 Points:  Java TAC Passed Test cases: (15 Points): 
+  13 Points:  Structure of MIPS Code: (15 Points): messy
+  15 Points:  MIPS Code Test cases: (15 Points): 
+  10 Points:  Validation File Present: (10 Points): 
+   0 Points:  Any additional comments:: 
+----
+  98 Points:  Total
+
+ASSIGNMENT_43_total="98"        # danielrutiloCSUN
+
+STUDENT COMMIT HISTORY:
+
+* Due Date: Oct 24 23:59:59  -----------------
+*  1875a88  Oct 24 20:13 -0700  (HEAD -> grading_information, origin/main, origin/HEAD, main)
+*  40cd4b9  Oct 24 20:10 -0700 
+*  b2e5e65  Oct 24 20:09 -0700  (tag: mips_version)
+*  fb3eb9a  Oct 24 20:07 -0700  (tag: java_tac_version)
+*  bf132da  Oct 24 20:02 -0700 
+*  c70475e  Oct 24 19:54 -0700 
+*  46290ad  Oct 24 19:37 -0700 
+*  fa5edcd  Oct 24 18:53 -0700 
+*  bef210c  Oct 24 18:47 -0700 
+*  8f1c94b  Oct 24 18:43 -0700 
+*  48393bc  Oct 24 18:34 -0700 
+*  a6a6f41  Oct 24 18:27 -0700 
+*  2a4f65e  Oct 24 18:25 -0700 
+*  425e9aa  Oct 24 18:17 -0700 
+*  5bed7f0  Oct 24 18:07 -0700 
+*  2da37dd  Oct 24 17:52 -0700 
+*  0496174  Oct 24 17:49 -0700 
+*  c34d585  Oct 24 17:15 -0700 
+*  d64a3d7  Oct 24 17:07 -0700 
+*  67c27a0  Oct 24 17:05 -0700 
+*  cd5fe5e  Oct 24 16:42 -0700  (tag: java_version)
+*  d7c33a3  Oct 24 16:37 -0700 
+*  e42a0e1  Oct 24 16:29 -0700 
+*  8effc2c  Oct 24 13:38 -0700 
+*  935a8e8  Oct 24 12:28 -0700 
+*    ec4a00b  Oct 22 21:05 -0700 
+|\  
+* |  e232340  Oct 22 21:03 -0700 
+|/  
+*  49acd0d  Oct 19 12:03 -0700 
+*  3a24d46  Oct 19 10:50 -0700 
+*  cdde3bd  Oct 18 14:54 -0700 
+

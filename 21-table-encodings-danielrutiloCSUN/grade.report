@@ -1,0 +1,42 @@
+# Grading Report
+# Github Account: danielrutiloCSUN
+# Assignment:    "21-table-encodings"
+# --- Due Date:        "Oct 03 23:59:59"
+# --- Version Graded:  "graded_version (d826578)"
+# --- Version Date:    "Oct 03 18:56:12"
+# --- Status:          "Submission On Time"
+
+  10 Points:  Commits / Formatting Clarity (10 points): 
+   9 Points:  Bit Stream Separation (10 points): base64 separation clarity
+  10 Points:  Message (10 points): 
+  20 Points:  Encode (20 points): 
+  20 Points:  Decode (20 points): but 4# is wrong
+  10 Points:  ASCII Encode (10 points): 
+  10 Points:  ASCII Decode (10 points): (two answers, extra 0)
+  10 Points:  MIPS Encode (10 points): 
+----
+  99 Points:  Total
+
+ASSIGNMENT_21_total="99"        # danielrutiloCSUN
+
+STUDENT COMMIT HISTORY:
+
+* Due Date: Oct 03 23:59:59  -----------------
+*  d826578  Oct 03 18:56 -0700  (HEAD -> main, origin/main, origin/HEAD, grading_information)
+*  51ae499  Oct 03 18:55 -0700 
+*  2cee4b8  Oct 03 18:47 -0700 
+*  d7af493  Oct 03 18:36 -0700 
+*  afd627e  Oct 03 18:03 -0700 
+*  4d7d437  Oct 03 17:58 -0700 
+*  b120997  Oct 03 17:54 -0700 
+*  3f56612  Oct 03 10:37 -0700 
+*  2d78b96  Oct 03 10:31 -0700 
+*  26bb104  Oct 02 23:06 -0700 
+*  d4e974c  Oct 02 22:47 -0700 
+*  649cf32  Oct 02 22:32 -0700 
+*  c234ccb  Oct 02 17:24 -0700 
+*  2ef822a  Sep 29 18:09 -0700 
+*  12ab58c  Sep 29 16:31 -0700 
+*  053bf70  Sep 29 13:20 -0700 
+*  ad2e15e  Sep 29 13:20 -0700 
+

@@ -1,0 +1,46 @@
+make[1]: Entering directory '/home/drutilo397/classes/comp122/deliverables/42-checksum-danielrutiloCSUN'
+java_subroutine checksum < 156.txt
+#########################################
+# Above is the output from your program
+#########################################
+
+v0:          0; 0x00 00 00 00; 0b0000 0000 0000 0000 0000 0000 0000 0000;
+
+java_subroutine checksum < 229_error.txt
+#########################################
+# Above is the output from your program
+#########################################
+
+v0:        132; 0x00 00 00 84; 0b0000 0000 0000 0000 0000 0000 1000 0100;
+
+java_subroutine checksum < 81.txt
+#########################################
+# Above is the output from your program
+#########################################
+
+v0:          0; 0x00 00 00 00; 0b0000 0000 0000 0000 0000 0000 0000 0000;
+
+mips_subroutine checksum < 156.txt
+#########################################
+# Above is the output from your program
+#########################################
+
+v0:          0; 0x00 00 00 00; 0b0000 0000 0000 0000 0000 0000 0000 0000;
+
+mips_subroutine checksum < 229_error.txt
+#########################################
+# Above is the output from your program
+#########################################
+
+v0:        132; 0x00 00 00 84; 0b0000 0000 0000 0000 0000 0000 1000 0100;
+
+mips_subroutine checksum < 81.txt
+#########################################
+# Above is the output from your program
+#########################################
+
+v0:          0; 0x00 00 00 00; 0b0000 0000 0000 0000 0000 0000 0000 0000;
+
+make[1]: Leaving directory '/home/drutilo397/classes/comp122/deliverables/42-checksum-danielrutiloCSUN'
+
+# Task 4 complete: Thu Oct 12 22:17:51 PDT 2023

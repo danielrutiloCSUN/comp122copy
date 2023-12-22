@@ -1,0 +1,30 @@
+The following changes since commit 5f08f7b0eacaf55af89b602a38476cf7aefc0f18:
+
+  Initial commit (2023-11-21 17:03:13 +0000)
+
+are available in the Git repository at:
+
+  git@github.com:COMP122/20-exam-formats-tuesday-danielrutiloCSUN.git main
+
+for you to fetch changes up to 4e15e46710e62caffadb625d57a0c22befb4e627:
+
+  commit (2023-11-21 10:15:17 -0800)
+
+----------------------------------------------------------------
+danielrutiloCSUN (12):
+      creating file
+      conversion between powers of 2 complete
+      part 2 done
+      part 3 done
+      commit
+      commit
+      part 3 done
+      commit
+      part 4 done
+      commit
+      commit
+      commit
+
+ submission.md | 178 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 178 insertions(+)
+ create mode 100644 submission.md

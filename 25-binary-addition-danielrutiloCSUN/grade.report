@@ -1,0 +1,50 @@
+# Grading Report
+# Github Account: danielrutiloCSUN
+# Assignment:    "25-binary-addition"
+# --- Due Date:        "Nov 07 23:59:59"
+# --- Version Graded:  "graded_version (0bed169)"
+# --- Version Date:    "Nov 07 11:29:32"
+# --- Status:          "Submission On Time"
+
+  15 Points:  Complements (15 points): 
+  15 Points:  Addition    (15 points): 
+  15 Points:  Status Bits (15 points): 
+  15 Points:  To Decimal  (15 points): 
+   5 Points:  To Base 2   (15 points): did not show work
+   8 Points:  Binary32    (15 points): answers wrong, did not show work, not sure what you did
+  10 Points:  Format etc. (10 points): 
+----
+  83 Points:  Total
+
+ASSIGNMENT_25_total="83"        # danielrutiloCSUN
+
+STUDENT COMMIT HISTORY:
+
+* Due Date: Nov 07 23:59:59  -----------------
+*    0bed169  Nov 07 11:29 -0800  (HEAD -> main, origin/main, origin/HEAD, grading_information)
+|\  
+* |  db7d067  Nov 07 11:27 -0800 
+|/  
+*  4b97e67  Nov 04 01:24 -0700 
+*  ac43c1e  Nov 04 01:04 -0700 
+*  b1820f9  Nov 04 00:53 -0700 
+*  76b1090  Nov 04 00:23 -0700 
+*  8e43bf1  Nov 04 00:08 -0700 
+*  b682351  Nov 03 23:59 -0700 
+*  21429ca  Nov 03 23:53 -0700 
+*  e8dece3  Nov 02 21:18 -0700 
+*  571190a  Nov 02 21:18 -0700 
+*  f984163  Nov 02 21:14 -0700 
+*  48ce5f7  Nov 02 21:06 -0700 
+*  e9e434c  Nov 02 20:51 -0700 
+*  356a4f0  Nov 02 20:08 -0700 
+*  e307b49  Nov 02 11:39 -0700 
+*  3acc0c4  Nov 02 11:26 -0700 
+*  2b8b4d9  Nov 02 11:13 -0700 
+*  a60ce3c  Nov 02 11:08 -0700 
+*  09b86b3  Nov 02 11:05 -0700 
+*  d6dc2f9  Nov 02 11:01 -0700 
+*  cd8e222  Nov 02 10:57 -0700 
+*  331611f  Nov 02 10:50 -0700 
+*  98a53f9  Nov 02 10:32 -0700 
+

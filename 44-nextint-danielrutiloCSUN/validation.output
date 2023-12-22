@@ -1,0 +1,9 @@
+make[1]: Entering directory '/home/drutilo397/classes/comp122/deliverables/44-nextint-danielrutiloCSUN'
+Error 'java_code' tag not in place
+make[1]: *** [makefile:67: final_java_code] Error 1
+Error 'java_tac_code' tag not in place
+make[1]: *** [makefile:72: final_java_tac_code] Error 1
+Error 'mips_code' tag not in place
+make[1]: *** [makefile:78: final_mips_code] Error 1
+make[1]: Target 'final' not remade because of errors.
+make[1]: Leaving directory '/home/drutilo397/classes/comp122/deliverables/44-nextint-danielrutiloCSUN'

@@ -1,0 +1,41 @@
+# Grading Report
+# Github Account: danielrutiloCSUN
+# Assignment:    "20-exam-formats-tuesday"
+# --- Accept Date:     "Nov 21 09:03:13"
+# --- Due Date:        "Nov 21 10:23:13" (time limit: 75M)
+# --- Cutoff Date:     "Nov 21 10:25:00"
+# --- Version Graded:  "graded_version (e239b86)"
+# --- Version Date:    "Nov 21 10:17:32"
+# --- Status:          "Submission On Time"
+
+  10 Points:  conversion ^2 (10 points): remove the {}
+  10 Points:  fractional2bin (10 points): remove the {}
+  10 Points:  whole2bin (10 points): remove the {}
+  14 Points:  floating point  (15 points): exponent -- copy error??? remove the {}
+  13 Points:  utf-8 (15 points): 
+   8 Points:  unsigned/signed (10 points): unsigned integer for positive numbers
+  20 Points:  addition/subtraction (20 points): 
+  10 Points:  base64 (10 points): 
+----
+  95 Points:  Total
+
+ASSIGNMENT_20_total="95"        # danielrutiloCSUN
+
+STUDENT COMMIT HISTORY:
+
+* Due Date: Nov 21 10:23:13  -----------------
+*  e239b86  Nov 21 10:17 -0800  (HEAD -> main, origin/main, origin/HEAD, grading_information)
+*  4e15e46  Nov 21 10:15 -0800 
+*  f134f56  Nov 21 10:07 -0800 
+*  42f65b0  Nov 21 10:02 -0800 
+*  b81e8e8  Nov 21 09:56 -0800 
+*  4d9f4ac  Nov 21 09:52 -0800 
+*  3339de8  Nov 21 09:47 -0800 
+*  33ed70d  Nov 21 09:43 -0800 
+*  26bfbf8  Nov 21 09:36 -0800 
+*  2adadc7  Nov 21 09:29 -0800 
+*  d3a5274  Nov 21 09:21 -0800 
+*  991b7e9  Nov 21 09:15 -0800 
+*  4139985  Nov 21 09:07 -0800 
+*  5f08f7b  Nov 21 09:03 -0800 
+

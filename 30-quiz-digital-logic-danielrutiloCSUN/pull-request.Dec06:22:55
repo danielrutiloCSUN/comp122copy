@@ -1,0 +1,28 @@
+The following changes since commit 90d6accf8415f4e8e1ee54f67dd0978ae3743e6c:
+
+  Initial commit (2023-12-07 05:07:56 +0000)
+
+are available in the Git repository at:
+
+  git@github.com:COMP122/30-quiz-digital-logic-danielrutiloCSUN.git main
+
+for you to fetch changes up to 54e46818b5eb666fafbfd7eddd70beede01f1736:
+
+  commit (2023-12-06 22:46:31 -0800)
+
+----------------------------------------------------------------
+danielrutiloCSUN (10):
+      creating file
+      commit
+      commit
+      commit
+      commit
+      commit
+      commit
+      commit
+      commit
+      commit
+
+ submission.md | 118 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 118 insertions(+)
+ create mode 100644 submission.md

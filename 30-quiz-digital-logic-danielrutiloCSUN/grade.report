@@ -1,0 +1,36 @@
+# Grading Report
+# Github Account: danielrutiloCSUN
+# Assignment:    "30-quiz-digital-logic"
+# --- Due Date:        "Dec 7 23:59:59"
+# --- Version Graded:  "graded_version (54e4681)"
+# --- Version Date:    "Dec 06 22:46:31"
+# --- Status:          "Submission On Time"
+
+  15 Points:  Elements of an ISA (15 points): 
+  15 Points:  Pipeline Stages (15 points): 
+   8 Points:  Signed Extension (15 points): 
+  10 Points:  Sequential Circuit (10 points): 
+  15 Points:  Boolean Expression  (15 points): 
+  10 Points:  Karnaugh map (10 points): 
+  10 Points:  Algebraic Simplification (10 points): close enough
+   8 Points:  Models (10 points): 
+----
+  91 Points:  Total
+
+ASSIGNMENT_30_total="91"        # danielrutiloCSUN
+
+STUDENT COMMIT HISTORY:
+
+* Due Date: Dec 7 23:59:59  -----------------
+*  54e4681  Dec 06 22:46 -0800  (HEAD, tag: graded_version, origin/main, origin/HEAD, main, grading_information)
+*  d374276  Dec 06 22:30 -0800 
+*  022ac09  Dec 06 22:02 -0800 
+*  ff6e790  Dec 06 21:41 -0800 
+*  0bc113a  Dec 06 21:38 -0800 
+*  35894ea  Dec 06 21:37 -0800 
+*  3ddb6b2  Dec 06 21:33 -0800 
+*  0648e2b  Dec 06 21:14 -0800 
+*  434ce0c  Dec 06 21:11 -0800 
+*  05521e2  Dec 06 21:10 -0800 
+*  90d6acc  Dec 06 21:07 -0800 
+
